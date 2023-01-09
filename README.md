@@ -1,6 +1,14 @@
-Airline Reservation System
+Airline Reservation System:-
+Technology Used:- Java, Java Swing, AWT, SQL, OOPs, JDBC Driver
+This app is made for a flight admin, where the admin is the person who handles all of the flight companies’
+operations using our app. key points to highlight.
+The app will only be accessible to authorized users, and this will be facilitated by a login screen that will
+require a username and password.
+Features:- Customer Creation, Customer Search, Customer Data Updation, Flight Creation,
+Ticket Booking, User Creation.
 
 
+Screenshot:-
 Sign UP:-
 
 ![Screenshot (182)](https://user-images.githubusercontent.com/91784572/211355766-faee664f-c0e3-42ab-883b-6751d54073b6.png)
